@@ -1,0 +1,5 @@
+project                  = "cwb06-dev"
+project_prefix           = "cwb06"
+region                   = "us-west1"
+environment              = "dev"
+user_management_base_url = "https://api-dev.cwb06.dsgov.demo.nuvalence.io/um"
